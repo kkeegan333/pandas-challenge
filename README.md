@@ -10,3 +10,4 @@ Source code and references were obtained from:
 - Module 4 Activites
 - https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.DataFrame.html
 
+*** Error message kept displaying towards the end of the assignment when the provided example code was run. Was unable to find a way to remove the error message from displaying but it does not stop the code from being run. 
